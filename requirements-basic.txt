@@ -1,0 +1,12 @@
+# Essential packages only
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+python-multipart
+python-dotenv
+jinja2
+
+
+
+
